@@ -5,7 +5,7 @@ vi/vim
 ------
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [vipershniper@gmail.com](mailto:vipershniper07@gmail.com)
+* ✉️  You can contact me at [vipershniper07@gmail.com](mailto:vipershniper07@gmail.com)
 * 🚀  I'm currently working on [pipebomb-api](http://pipebomb.bytecats.codes)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Web Projects or API's
