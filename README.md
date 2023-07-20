@@ -52,4 +52,7 @@ vi/vim
     <a href="https://github.com/carrotshniper21/pip-api" align="right">
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=pip-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
+        <a href="https://github.com/carrotshniper21/consumet-api-rs" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=consumet-api-rs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
 </div>
