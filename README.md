@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CarrotShniper
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason Spalti
 =====================================================================================================================================
 
-vi/vim
+he/him
 ------
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [vipershniper07@gmail.com](mailto:vipershniper07@gmail.com)
-* 🚀  I'm currently working on [pipebomb-api](http://pipebomb.bytecats.codes)
+* 🚀  I'm currently working on [api.consumet.org](https://github.com/carrotshniper21/api.consumet.org)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Web Projects or API's
 
@@ -41,18 +41,14 @@ vi/vim
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/carrotshniper21">
-    <img src="https://github-readme-stats.vercel.app/api?username=carrotshniper21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="5H4D0WILA's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=carrotshniper21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="carrotshniper21's GitHub stats" />
 </a>
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
-    <a href="https://github.com/carrotshniper21/pip-cli" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=pip-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/carrotshniper21/api.consumet.org" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=api.consumet.org&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/carrotshniper21/pip-api" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=pip-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-        <a href="https://github.com/carrotshniper21/consumet-api-rs" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=consumet-api-rs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
+    <a href="https://github.com/carrotshniper21/consumet.rs" align="right">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=carrotshniper21&repo=consumet.rs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </div>
